@@ -61,3 +61,6 @@ http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCM01AzureAuto.html
 http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaCLabsM02DSC.html
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/deployment-modes
+
+
+azuredeploy.json: agregar linea 5 "storageAccountName": {"type": "string"},
